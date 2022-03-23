@@ -1,0 +1,32 @@
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.block {
+    display: block;
+    margin:auto;
+    height: 400px;
+    border-radius: 25px;
+    width: min(500px);
+    box-shadow: 0px 0px 20px;
+}
+
+#content {
+    margin: auto;
+    margin-top: 1rem;
+    border: 5px solid black;
+    text-align: left;
+    border-radius: 75px;
+    width: min(70%, 500px);
+}
+
+ul {
+    font-size: 24px;
+    text-align: left;
+}
